@@ -11,6 +11,15 @@ In this section I will the list of data projects that I have completed while des
 **Skills**: Data cleaning, data analysis, data engineering 
 
 Technology: Python, SQL   
+### Cleaning Bank Marketing Campaign Data 
+**Goal**: Cleaning a bank marketing dataset 
+
+**Description**: During this project, I updated values, converted data types, and split the bank marketing dataset into subsets. 
+**Code**: 
+
+**Skills**: Data cleaning 
+
+**Technology**: Python 
 ## SQL Projects 
 ### Analyzing Industry Carbon Emissions 
 Description: The [product_emiisions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints(PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
