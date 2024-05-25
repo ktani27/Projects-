@@ -3,15 +3,15 @@ In this section I will the list of data projects that I have completed while des
 # Building a Retail Data Pipeline 
 Goal: Creating a data pipeline for the analysis of Walmart's supply and demand around the holidays , along with conducting a preliminary analysis of the data.
 
-Description: The project focused on bulding a data pipeline using custom functions to extract, transform, aggregates, and loads e-commerce data. 
+Description: The project focused on building a data pipeline using custom functions to extract, transform, aggregates, and loads e-commerce data.I used the data from the [grocery_sales](https://github.com/ktani27/Projects-/blob/main/assets/Grocery_sales.png) table in PostgreSQL and from the [extra_data]() parquet file.   
 
 Code: [Building a retail data pipeline](https://github.com/ktani27/Projects-/blob/main/assets/Building%20a%20Retail%20Data%20Pipeline.py) 
 
 Skills: Data cleaning, data analysis, data engineering 
 
-Technology: Python  
+Technology: Python, SQL   
 # Analyzing Industry Carbon Emissions 
-Description: The dataset contains product carbon footprints(PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
+Description: The [product_emiisions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints(PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
 
 Code: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Industry%20Carbon%20Emissions.sql) 
 
