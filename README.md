@@ -26,9 +26,9 @@ Now, I have a created this repository to showcase skills, share projects and tra
 - Data types conversion
 - Missing value replacement 
 - Dataset split into three subsets:
-  - [client.csv](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20client%20table%20.png)
-  - [campaign.csv](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20campaign%20table%20.png)
-  - [economics.csv](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20economics%20.png)
+  - [client](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20client%20table%20.png)
+  - [campaign](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20campaign%20table%20.png)
+  - [economics](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20economics%20.png)
 
 **Code**: [Cleaning Bank Marketing Data](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20Bank%20Marketing%20Data.py) 
 
