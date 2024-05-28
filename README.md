@@ -1,6 +1,11 @@
-# Portfolio Projects-
-In this section I will the list of data projects that I have completed while describing the technology stack used to solve cases.
-# Table of Contents 
+# Franck Tani Data Analyst Portfolio 
+## About 
+Hi I 'm Franck. I have a background in business admnistration, but I switched to Information technology after falling in love with the power of analytics during my time as an real estate admnistrative assistant. I was one of the most computer-saavy team member so the CIO relied on me with many tasks. This is when I discovered the world of databases and the power SQL. 
+
+Since then, I decided to immerse myself into tech and to become a data analyst. I got one step closer to my goal by  obtaining a master's degree in Management Information Systems with a concentration in project management. 
+Now, I have a created this repository to showcase skills, share projects and track my progress in Data analytics/Data engineering related topics. 
+
+
 
 ## Python Projects 
 ### Building a Retail Data Pipeline 
