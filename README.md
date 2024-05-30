@@ -43,7 +43,7 @@ Description: The [product_emissions table](https://github.com/ktani27/Projects-/
 
 **Analysis**: Based on the [query's result](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20the%20Carbon%20Industry%20Query%20.png), the worst offenders, as far as global emissions, are:
 
--The materials industry with a product carbon footprint of 107129
+- The materials industry with a product carbon footprint of 107129
 - In second position, we have the capital goods industry with a PCF of 94942.7, which is three times more than the next industry on the list (Technology Hardware & Equipment). 
 
 
