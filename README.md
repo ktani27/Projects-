@@ -51,7 +51,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 
 **Technology**: SQL
 ### Analyzing Students' Mental Health 
-**Goal**: The project consists in finding out if international have a higher risk of mental health difficulties than the general population. 
+**Goal**: The project consists in finding out if international students have a higher risk of mental health difficulties than the general population. 
 
 **Description**: A Japanese international university surveyed its students in 2018 and published a study the following year. The study found that international students have a higher risk of mental health difficulties than the general population. 
 I will explore the [Students data](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students%20Mental%20Health%20Data%20Description%20.png) data using PostgreSQL to find out if I would come to a similar conclusion for international students. 
