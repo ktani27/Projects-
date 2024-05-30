@@ -37,7 +37,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 **Technology**: Python 
 ## SQL Projects 
 ### Analyzing Industry Carbon Emissions 
-Description: The [product_emissions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints (PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
+**Description**: The [product_emissions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints (PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
 
 **Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health%20Notebook.ipynb) 
 
