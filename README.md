@@ -39,7 +39,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 ### Analyzing Industry Carbon Emissions 
 Description: The [product_emissions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints (PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
 
-**Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Industry%20Carbon%20Emissions.ipynb) 
+**Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health%20Notebook.ipynb) 
 
 **Analysis**: Based on the [query's result](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20the%20Carbon%20Industry%20Query%20.png), the worst offenders, as far as global emissions, are:
 
@@ -53,12 +53,17 @@ Description: The [product_emissions table](https://github.com/ktani27/Projects-/
 ### Analyzing Students' Mental Health 
 **Goal**: The project consists in finding out if international have a higher risk of mental health difficulties than the general population. 
 
-**Description**: 
-[You can find a data description in the picture below](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students%20Mental%20Health%20Data%20Description%20.png)  
+**Description**: A Japanese international university surveyed its students in 2018 and published a study the following year. The study found that international students have a higher risk of mental health difficulties than the general population. 
+I will explore the [Students data](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students%20Mental%20Health%20Data%20Description%20.png) data using PostgreSQL to find out if I would come to a similar conclusion for international students. 
+
 
 **Code**: [Analyzing Students Mental Health](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health%20Notebook.ipynb)
 
-The [query] returns the count of internationals for a given length of stay, and their average score on depression, social connectedness, and accumulative stress. 
+
+**Analysis**: The queries return the average depression, social connectedness, and accultural stress for both domestic and international students. a side-by-side comparison indicates the following:
+- On average, domestic students  scored higher on depression, and the social connectedness.
+- The international students averaged more on accultural stress, as expected.
+Based on these results, We cannot support the thesis claiming that the international students have higher risk of mental helath difficulties. 
 
 
 **Skills**: Data Manipulation, Data analysis  
