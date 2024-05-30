@@ -56,10 +56,10 @@ Description: The [product_emissions table](https://github.com/ktani27/Projects-/
 **Description**: 
 [You can find a data description in the picture below](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students%20Mental%20Health%20Data%20Description%20.png)  
 
-**Code**: [Analyzing Students Mental Health](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health.sql)
+**Code**: [Analyzing Students Mental Health](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health%20Notebook.ipynb)
 
-The query returns the count of internationals for a given length of stay, and their average score on depression, social connectedness, and accumulative stress. 
-[Here is the query's result](https://github.com/ktani27/Projects-/blob/main/assets/Analzyng%20Students%20Mental%20Health%20Query%20results.png) 
+The [query] returns the count of internationals for a given length of stay, and their average score on depression, social connectedness, and accumulative stress. 
+
 
 **Skills**: Data Manipulation, Data analysis  
 
