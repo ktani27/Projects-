@@ -63,6 +63,7 @@ I will explore the [Students data](https://github.com/ktani27/Projects-/blob/mai
 **Analysis**: The queries return the average depression, social connectedness, and accultural stress for both domestic and international students. a side-by-side comparison indicates the following:
 - On average, domestic students  scored higher on depression, and the social connectedness.
 - The international students averaged more on accultural stress, as expected.
+
 Based on these results, We cannot support the thesis claiming that the international students have higher risk of mental helath difficulties. 
 
 
