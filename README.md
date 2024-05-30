@@ -10,7 +10,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 
 ## Python Projects 
 ### Building a Retail Data Pipeline 
-**Goal**: Creating a data pipeline for the analysis of Walmart's supply and demand around the holidays , along with conducting a preliminary analysis of the data.
+**Goal**: Creating a data pipeline for the analysis of Walmart's supply and demand around the holidays.
 
 **Description**: The project focused on building a data pipeline using custom functions to extract, transform, aggregates, and loads e-commerce data. I used the data from the [grocery_sales](https://github.com/ktani27/Projects-/blob/main/assets/Grocery_sales.png) table in PostgreSQL and from the [extra_data](https://github.com/ktani27/Projects-/blob/main/assets/Walmart%20sales%20Extra%20data%20Parquet%20files%20.png) parquet file.   
 
@@ -22,10 +22,10 @@ Now, I have a created this repository to showcase skills, share projects and tra
 ### Cleaning Bank Marketing Campaign Data 
 **Goal**: Cleaning a bank marketing dataset 
 
-**Description**: During this project, I used many data cleaning techniques to ready the dataset for processing among which:
+**Description**: During this project, I used many data cleaning techniques to perform operations on the [bank marketing dataset](https://github.com/ktani27/Projects-/blob/main/assets/bank_marketing.csv) for processing among which:
 - Data types conversion
-- Missing value replacement 
-- Dataset split into three subsets:
+- Missing values replacement 
+- Split of the dataset into three subsets:
   - [client](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20client%20table%20.png)
   - [campaign](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20campaign%20table%20.png)
   - [economics](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20economics%20.png)
@@ -39,7 +39,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 ### Analyzing Industry Carbon Emissions 
 Description: The [product_emissions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints (PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
 
-**Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Industry%20Carbon%20Emissions.sql) 
+**Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Carbon%20Emissions.ipynb) 
 
 **Skills**: Data Manipulation 
 
