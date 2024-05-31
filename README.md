@@ -46,7 +46,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 ### Analyzing Industry Carbon Emissions 
 **Description**: The [product_emissions table](https://github.com/ktani27/Projects-/blob/main/assets/Product%20Emissions%20.png) contains product carbon footprints (PCFs) for various companies. The records include the greenhouse gas emissions attributable to given product measured in CO2. 
 
-**Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health%20Notebook.ipynb) 
+**Code**: [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Industry%20Carbon%20Emissions.ipynb) 
 
 **Analysis**: Based on the [query's result](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20the%20Carbon%20Industry%20Query%20.png), the worst offenders, as far as global emissions, are:
 
