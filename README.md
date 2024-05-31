@@ -67,11 +67,11 @@ I will explore the [Students data](https://github.com/ktani27/Projects-/blob/mai
 **Code**: [Analyzing Students Mental Health](https://github.com/ktani27/Projects-/blob/main/assets/Analyzing%20Students'%20Mental%20Health%20Notebook.ipynb)
 
 
-**Analysis**: The queries return the average depression, social connectedness, and accultural stress for both domestic and international students. a side-by-side comparison indicates the following:
-- On average, domestic students  scored higher on depression, and the social connectedness.
+**Analysis**: The queries return the average depression, social connectedness, and accultural stress for both domestic and international students. A s[ide-by-side comparison](https://github.com/ktani27/Projects-/blob/main/assets/Queries%20Side%20-%20by-side%20comparison.png) indicates the following:
+- On average, domestic students  scored higher on depression, social connectedness.
 - The international students averaged more on accultural stress, as expected.
 
-Based on these results, We cannot support the thesis claiming that the international students have higher risk of mental helath difficulties. 
+Based on these results, We cannot support the thesis claiming that the international students have higher risk of mental health difficulties. 
 
 
 **Skills**: Data Manipulation, Data analysis  
