@@ -6,7 +6,7 @@ Since then, I decided to immerse myself into tech and to become a data analyst. 
 
 Now, I have a created this repository to showcase skills, share projects and track my progress in Data analytics/Data engineering related topics. 
 
-## Table of Content 
+## Table of Contents 
 - [About](https://github.com/ktani27/Projects-/blob/main/README.md#about)
 - [Python Projects](https://github.com/ktani27/Projects-/blob/main/README.md#python-projects)
   - [Building a Retail Data Pipeline](https://github.com/ktani27/Projects-/blob/main/README.md#building-a-retail-pipeline)
