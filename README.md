@@ -21,7 +21,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
 
 **Description**: The project focused on building a data pipeline using custom functions to extract, transform, aggregates, and loads e-commerce data. I used the data from the [grocery_sales](https://github.com/ktani27/Projects-/blob/main/assets/Grocery_sales.png) table in PostgreSQL and from the [extra_data](https://github.com/ktani27/Projects-/blob/main/assets/Walmart%20sales%20Extra%20data%20Parquet%20files%20.png) parquet file.   
 
-**Code**: [Building a retail data pipeline](https://github.com/ktani27/Projects-/blob/main/assets/Building%20a%20Retail%20Data%20Pipeline.py) 
+**Code**: [Building a retail data pipeline](https://github.com/ktani27/Projects-/blob/main/assets/Building%20a%20retail%20data%20pipeline%20notebook.ipynb) 
 
 **Skills**: Data cleaning, data analysis, data engineering 
 
@@ -37,7 +37,7 @@ Now, I have a created this repository to showcase skills, share projects and tra
   - [campaign](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20campaign%20table%20.png)
   - [economics](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20bank%20data%20economics%20.png)
 
-**Code**: [Cleaning Bank Marketing Data](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20Bank%20Marketing%20Data.py) 
+**Code**: [Cleaning Bank Marketing Data](https://github.com/ktani27/Projects-/blob/main/assets/Cleaning%20Bank%20Marketing%20Data%20Notebook.ipynb) 
 
 **Skills**: Data cleaning 
 
