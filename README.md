@@ -6,7 +6,14 @@ Since then, I decided to immerse myself into tech and to become a data analyst. 
 
 Now, I have a created this repository to showcase skills, share projects and track my progress in Data analytics/Data engineering related topics. 
 
-
+## Table of Content 
+- [About](https://github.com/ktani27/Projects-/blob/main/README.md#about)
+- [Python Projects](https://github.com/ktani27/Projects-/blob/main/README.md#python-projects)
+  - [Building a Retail Data Pipeline](https://github.com/ktani27/Projects-/blob/main/README.md#building-a-retail-pipeline)
+  - [Cleaning Bank Marketing Campaign Data](https://github.com/ktani27/Projects-/blob/main/README.md#cleaning-bank-marketing-campaign-data)
+- [SQL Projects](https://github.com/ktani27/Projects-/blob/main/README.md#SQL-projects)
+  - [Analyzing Industry Carbon Emissions](https://github.com/ktani27/Projects-/blob/main/README.md#analyzing-industry-carbon-emissions)
+  - [Analyzing Students Mental Health](https://github.com/ktani27/Projects-/blob/main/README.md#analyzing-students-mental-health) 
 
 ## Python Projects 
 ### Building a Retail Data Pipeline 
